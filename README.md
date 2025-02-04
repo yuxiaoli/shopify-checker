@@ -22,7 +22,7 @@ pip install requests beautifulsoup4
 Run the script with a website URL:
 
 ```bash
-python shopify_checker.py https://store.example.com/products/item
+python src/shopify_checker/shopify_checker.py https://store.example.com/products/item
 ```
 
 ### Example Output:
