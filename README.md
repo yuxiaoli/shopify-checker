@@ -1,9 +1,3 @@
-Here's a **README.md** file for your Shopify detection script. 🚀  
-
----
-
-### **README.md**
-```markdown
 # Shopify Website Detector
 
 This script detects if a given website is built using **Shopify** by analyzing its source code, HTTP headers, and common Shopify-specific patterns.
@@ -60,8 +54,3 @@ Feel free to submit issues or contribute improvements! 🚀
 
 ## License
 This project is open-source under the MIT License.
-```
-
----
-
-This README provides clear instructions, usage examples, and technical details. Let me know if you'd like any changes! 🚀📄
