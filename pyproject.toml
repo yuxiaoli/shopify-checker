@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "shopify-checker"
+version = "0.1.0"
+description = ""
+authors = ["sean <sean.li@vectorindex.cloud>"]
+readme = "README.md"
+packages = [{include = "shopify_checker", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+requests = "^2.32.3"
+beautifulsoup4 = "^4.13.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
